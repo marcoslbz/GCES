@@ -1,17 +1,89 @@
-# Welcome to MkDocs
+# GCES/MEPA - Monitoramento Energético
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<p align="center">
+  <img src="assets/logoMEPA.png" alt="logo mepa" width="500">
+</p>
 
-## Commands
+Esta documentação foi desenvolvida no contexto da disciplina **Gestão de Configuração e Evolução de Software (GCES)** ministrada pela professora Carla Rocha no semestre 2026.1
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+A proposta da matéria é aplicar, na prática, conceitos fundamentais como: Controle de versão, Gerência de configuração, Integração contínua, Evolução de software. Tudo isso será feito contribuindo em projetos reais em produção.
 
-## Project layout
+---
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+##  Proposta do projeto
+
+Ao invés de desenvolver um sistema do zero, a disciplina propõe algo mais próximo da realidade do mercado:
+**contribuir com um projeto de software livre já existente**.
+
+O projeto escolhido pelo grupo foi o **MEPA (Monitoramento de Energia em Plataforma Aberta)**, desenvolvido pela Universidade de Brasília.
+
+---
+
+## Integrantes do grupo
+
+<div style="
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  gap: 10px;
+  margin-top: 30px;
+">
+
+<a href="https://github.com/marcoslbz" style="text-decoration: none; color: inherit;">
+  <div style="text-align: center; background: #f5f5f5; padding: 20px; border-radius: 10px;">
+    <img src="assets/integrantes/marcos.png" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; border: 3px solid #F4A259;">
+    <h3>Marcos Bezerra</h3>
+  </div>
+</a>
+
+<a href="https://github.com/--linkrepo--" style="text-decoration: none; color: inherit;">
+  <div style="text-align: center; background: #f5f5f5; padding: 20px; border-radius: 10px;">
+    <img src="assets/bruno.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; border: 3px solid #F4A259;">
+    <h3>Nome integrante</h3>
+  </div>
+</a>
+
+<a href="https://github.com/--linkrepo--" style="text-decoration: none; color: inherit;">
+  <div style="text-align: center; background: #f5f5f5; padding: 20px; border-radius: 10px;">
+    <img src="assets/bruno.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; border: 3px solid #F4A259;">
+    <h3>Nome integrante</h3>
+  </div>
+</a>
+
+<a href="https://github.com/--linkrepo--" style="text-decoration: none; color: inherit;">
+  <div style="text-align: center; background: #f5f5f5; padding: 20px; border-radius: 10px;">
+    <img src="assets/bruno.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; border: 3px solid #F4A259;">
+    <h3>Nome integrante</h3>
+  </div>
+</a>
+
+<a href="https://github.com/--linkrepo--" style="text-decoration: none; color: inherit;">
+  <div style="text-align: center; background: #f5f5f5; padding: 20px; border-radius: 10px;">
+    <img src="assets/bruno.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; border: 3px solid #F4A259;">
+    <h3>Nome integrante</h3>
+  </div>
+</a>
+
+<a href="https://github.com/--linkrepo--" style="text-decoration: none; color: inherit;">
+  <div style="text-align: center; background: #f5f5f5; padding: 20px; border-radius: 10px;">
+    <img src="assets/bruno.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; border: 3px solid #F4A259;">
+    <h3>Nome integrante</h3>
+  </div>
+</a>
+
+<a href="https://github.com/--linkrepo--" style="text-decoration: none; color: inherit;">
+  <div style="text-align: center; background: #f5f5f5; padding: 20px; border-radius: 10px;">
+    <img src="assets/bruno.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; border: 3px solid #F4A259;">
+    <h3>Nome integrante</h3>
+  </div>
+</a>
+
+<a href="https://github.com/--linkrepo--" style="text-decoration: none; color: inherit;">
+  <div style="text-align: center; background: #f5f5f5; padding: 20px; border-radius: 10px;">
+    <img src="assets/bruno.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; border: 3px solid #F4A259;">
+    <h3>Nome integrante</h3>
+  </div>
+</a>
+
+</div>
+
+---
