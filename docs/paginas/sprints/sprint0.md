@@ -27,5 +27,6 @@ Descrever como foi o Onboarding com o MEPA (por a gravação talvez)
 | Data     | Versão | Descrição             | Autor               |
 | -------- | ------ | --------------------- | ------------------  |
 | 18/04/2026 | 0.1  | Estruturando a Sprint | Marcos Bezerra      |
+| 18/04/2026 | 0.1  | Testando workflow     | Marcos Bezerra      |
 
 
