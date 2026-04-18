@@ -25,3 +25,8 @@
 .md-typeset a:hover {
   color: #D9883D;
 }
+
+.md-typeset table th {
+  background-color: #0D3B66; /* tua cor */
+  color: white;
+}

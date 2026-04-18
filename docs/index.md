@@ -26,6 +26,7 @@ O projeto escolhido pelo grupo foi o **MEPA (Monitoramento de Energia em Platafo
   grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
   gap: 10px;
   margin-top: 30px;
+  align-center;
 ">
 
 <a href="https://github.com/marcoslbz" style="text-decoration: none; color: inherit;">
@@ -87,3 +88,8 @@ O projeto escolhido pelo grupo foi o **MEPA (Monitoramento de Energia em Platafo
 </div>
 
 ---
+## Histórico de Versão
+
+| Data     | Versão | Descrição             | Autor               |
+| -------- | ------ | --------------------- | ------------------  |
+| 18/04/2026 | 1.0    | Versão inicial        | Marcos Bezerra    |
